@@ -32,7 +32,7 @@ This solution can be applied to:
 ---
 
 ## 📂 Dataset
-- Filtered dataset with 5 classes.  
+- Filtered dataset with 6 classes.  
 - Train/test split: **90/10**.  
 - Labels encoded numerically for training.  
 
