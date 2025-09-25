@@ -1,8 +1,9 @@
 # 🚨 Cyberbullying Detection with BERT + CNN
 
 ## 📌 Overview
-This project builds an **AI-powered cyberbullying detection model** that classifies online text into **5 categories**:  
-- not_cyberbullying  
+This project builds an **AI-powered cyberbullying detection model** that classifies online text into **6 categories**:  
+- not_cyberbullying
+- other cyberbullying
 - gender  
 - religion  
 - age  
