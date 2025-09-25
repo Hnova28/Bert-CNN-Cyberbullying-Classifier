@@ -78,4 +78,7 @@ This solution can be applied to:
 - API deployment (FastAPI/Flask)
 - Multilingual dataset support
 - Advanced fine-tuning (BERT + hybrid models)
+----
+## CODE LINK 
+https://colab.research.google.com/drive/1VXhCn044lfgigBbp5wKiO4H5mKqkm4tB#scrollTo=cyQhiYBnp0-N
 
